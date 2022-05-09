@@ -12,9 +12,9 @@ public class Variables01 {
         //In "public int age = 12;",  "public int age" is called "Variable Declaration".
         //In "public int age = 12;",  "=12" is called "Value Assignment"
 
-        //While you type code on Eclipse, if you get "red underline" it means you made a mistake
+        //While you type code on Intelij or Eclipse, if you get "red underline" it means you made a mistake
 
-        //While you type code on Eclipse, if you get yellow underline, it is not big issue.
+        //While you type code on Intelij or Eclipse, if you get yellow underline, it is not big issue.
         //Most probably you created a variable, but you did not use it yet.
 
         //If you create declare a variable without assigning any value in "main method",
